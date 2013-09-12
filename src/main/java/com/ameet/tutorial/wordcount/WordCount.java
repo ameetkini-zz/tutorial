@@ -1,4 +1,4 @@
-package com.ameet.tutorial;
+package com.ameet.tutorial.wordcount;
 
 import java.io.IOException;
 
